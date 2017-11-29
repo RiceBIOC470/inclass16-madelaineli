@@ -1,4 +1,11 @@
 % Inclass16
+
+%GB comments
+1 100 
+2 100 won’t take off points but your peaks a and b should be in one peak cell array. 
+3 100
+overall 100
+
 clear all
 %The folder in this repository contains code implementing a Tracking
 %algorithm to match cells (or anything else) between successive frames. 
